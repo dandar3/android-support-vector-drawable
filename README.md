@@ -1,5 +1,5 @@
 # android-support-vector-drawable
-Eclipse library project based on:
+Eclipse library project based on:<br/>
 `ANDROID_SDK/extras/android/m2repository/com/android/support/support-vector-drawable/23.4.0/support-vector-drawable-23.4.0.aar`
 
 **Requires**
