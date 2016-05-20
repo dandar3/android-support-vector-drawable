@@ -3,7 +3,7 @@ Eclipse library project based on:<br/>
 `ANDROID_SDK/extras/android/m2repository/com/android/support/support-vector-drawable/23.4.0/support-vector-drawable-23.4.0.aar`
 
 **Requires:**
-- `Android 2.1 (API 7) SDK Platform`
+- `Android 6.0 (API 23) SDK Platform`
 - [dandar3/android-support-v4](https://github.com/dandar3/android-support-v4)
 
 **References:**
