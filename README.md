@@ -1,10 +1,10 @@
 ## android-support-vector-drawable
 
 Eclipse library project based on:<br/>
-`ANDROID_SDK/extras/android/m2repository/com/android/support/support-vector-drawable/24.0.0/support-vector-drawable-24.0.0.aar`
+`ANDROID_SDK/extras/android/m2repository/com/android/support/support-vector-drawable/24.1.1/support-vector-drawable-24.1.1.aar`
 
 **Requires:**
-- `Android N (API 24) SDK Platform`
+- `Android 7.0 (API 24) SDK Platform`
 - [dandar3/android-support-v4](https://github.com/dandar3/android-support-v4)
 
 **References:**
@@ -12,7 +12,4 @@ Eclipse library project based on:<br/>
 - https://developer.android.com/topic/libraries/support-library/features.html
 
 **SVN Checkout:**
-- `Eclipse ADT`<br/>
-  https://github.com/dandar3/android-support-vector-drawable/tags/24.0.0
-- `Eclipse Andmore`<br/>
-  https://github.com/dandar3/android-support-vector-drawable/tags/24.0.0_andmore
+- https://github.com/dandar3/android-support-vector-drawable/tags/24.1.1
