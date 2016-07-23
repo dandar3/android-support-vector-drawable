@@ -9,7 +9,6 @@ Eclipse library project based on:<br/>
 
 **References:**
 - https://developer.android.com/topic/libraries/support-library/revisions.html
-- https://developer.android.com/topic/libraries/support-library/features.html
 
 **SVN Checkout:**
 - https://github.com/dandar3/android-support-vector-drawable/tags/24.1.1

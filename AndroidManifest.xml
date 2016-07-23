@@ -16,9 +16,9 @@
 -->
 <manifest
     package="android.support.graphics.drawable"
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    android:versionCode="2400"
-    android:versionName="24.0.0">
+    xmlns:android="http://schemas.android.com/apk/res/android" 
+          android:versionCode="2411"
+          android:versionName="24.1.1">
 
     <uses-sdk android:minSdkVersion="7" />
 
