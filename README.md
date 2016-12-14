@@ -9,7 +9,6 @@ Eclipse library project based on:<br/>
 - [dandar3/android-support-compat](https://github.com/dandar3/android-support-compat/tree/25.1.0)
 
 **References:**
-- https://plus.google.com/wm/4/+IanLake/posts/ajFE8GneXqm
 - https://developer.android.com/topic/libraries/support-library/revisions.html#rev25-1-0
 
 **SVN Checkout:**
