@@ -10,6 +10,7 @@ https://maven.google.com/com/android/support/support-vector-drawable/26.0.1/supp
 
 **References:**
 - https://developer.android.com/topic/libraries/support-library/revisions.html#26-0-1
+- https://developer.android.com/topic/libraries/support-library/packages.html#vector
 
 **SVN Checkout:**
 - _File > Import... > Team > Team Project Set > URL:_<br/>
