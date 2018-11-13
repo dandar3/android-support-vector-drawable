@@ -9,7 +9,7 @@ https://maven.google.com/com/android/support/support-vector-drawable/28.0.0/supp
 - [dandar3/android-support-compat](https://github.com/dandar3/android-support-compat/tree/28.0.0)
 
 **References:**
-
+- https://developer.android.com/topic/libraries/support-library/revisions#28-0-0
 
 **SVN checkout:**
 - _File > Import... > Team > Team Project Set > URL:_<br/>
